@@ -1,7 +1,7 @@
 /**
- - Create By ZackMans Official
- - Contact Me on https://wa.me/+6281385062956
- - Follow iG : @salman_alfarizi_15
+ - Create By ADHE IAN BOTZ
+ - Contact Me on https://wa.me/+6285656909323
+ - Follow iG : @Ian Adhe Anas
 */
 
 const fs = require("fs")
@@ -11,7 +11,7 @@ const chalk = require("chalk")
 global.thum = fs.readFileSync("./media/image/thumb.jpg")
 global.log0 = fs.readFileSync("./media/image/mans.jpg")
 global.err4r = fs.readFileSync("./media/image/error.jpg")
-global.owner = ['6283152753417','6283121365947','6288292024190']
+global.owner = ['6285656909323','62882022188389','6285823008554']
 global.rkyt = []
 global.ntilink = ['120363043965529911@g.us']
 global.ntihide = ['120363043965529911@g.us']
@@ -21,9 +21,9 @@ global.autkick = ['120363043965529911@g.us']
 global.gcrevoke = ['16472412324-1386525986@g.us']
 global.wjoind = []
 global.wleaved = []
-global.packname = "MyMans APIs"
+global.packname = "My Adhe botz"
 global.packname2 = "MyMainas"
-global.author = "ZackMans"
+global.author = "adheian"
 global.sessionName = "mans"
 global.linkgrupss = "https://chat.whatsapp.com/HDmXvmHpEkE9wRJy3IO6OZ"
 global.antitags = true
