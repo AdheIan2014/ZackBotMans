@@ -1,7 +1,7 @@
 /**
- - Create By ZackMans Official
+ - Create By AdheIan Official
  - Contact Me on https://wa.me/+6281385062956
- - Follow iG : @salman_alfarizj_15
+ - Follow iG : @Ian Adhe Anas
  - Thanks Dika Ardnt
 */
 
